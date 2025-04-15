@@ -123,7 +123,7 @@ class Program
         Console.WriteLine("3 - Paint");
         Console.WriteLine("4 - Custom");
 
-        Console.Write("Ваш вибір: ");
+        Console.Write("Your choice: ");
         string input = Console.ReadLine();
 
         string path = input switch
